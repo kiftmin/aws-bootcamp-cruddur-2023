@@ -1,5 +1,8 @@
 # Week 0 — Billing and Architecture
 ## Required Homework
+
+After submitting my homework I saw that all the tickboxes were not saved on my checklist! However, I saved it afterwards. Just hope it will refelect in my homework.
+
 ### Installing the AWS CLI
 I attempted installing doing this using the frollowing instructions:
 
@@ -32,6 +35,7 @@ Please find the below screenshots to confirm that I have added AWS Alarms and Bu
 Below is the link to my architectural diagram
 
 [Logical Architectual Diagram](https://lucid.app/lucidchart/0b580349-3707-4938-b885-52df7add558e/edit?viewport_loc=-480%2C-123%2C3012%2C1499%2C0_0&invitationId=inv_4618ee4f-5f00-4207-8e36-ed424d6f2bc3)
+
 
 
 
