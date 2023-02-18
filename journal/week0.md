@@ -18,7 +18,7 @@ I'm still busy troubleshooting. Should be able to figure it out. Will update thi
 
 In the meantime I have installed AWS CLI on my Windows PC. Please find proof below
 
-![Proof that AWS CLI is installed on my Windows PC](assets/AWSCLI proof.PNG)
+![Proof that AWS CLI is installed on my Windows PC](assets/AWSCLI_proof.PNG)
 
 
 
